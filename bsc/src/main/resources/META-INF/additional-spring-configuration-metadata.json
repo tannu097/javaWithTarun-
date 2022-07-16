@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "login.memberCode",
+    "type": "java.lang.String",
+    "description": "A description for 'login.memberCode'"
+  },
+  {
+    "name": "login.secretKey",
+    "type": "java.lang.String",
+    "description": "A description for 'login.secretKey'"
+  },
+  {
+    "name": "login.userName",
+    "type": "java.lang.String",
+    "description": "A description for 'login.userName'"
+  },
+  {
+    "name": "login.memberCode",
+    "type": "java.lang.String",
+    "description": "A description for 'login.memberCode'"
+  },
+  {
+    "name": "login.password",
+    "type": "java.lang.String",
+    "description": "A description for 'login.password'"
+  },
+  {
+    "name": "token.path",
+    "type": "java.lang.String",
+    "description": "A description for 'token.path'"
+  },
+  {
+    "name": "bankAccountBalances.Url",
+    "type": "java.lang.String",
+    "description": "A description for 'bankAccountBalances.Url'"
+  },
+  {
+    "name": "cashAndCashEquivalent.Url",
+    "type": "java.lang.String",
+    "description": "A description for 'cashAndCashEquivalent.Url'"
+  }
+]}
